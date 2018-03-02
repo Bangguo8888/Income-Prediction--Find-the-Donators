@@ -7,7 +7,7 @@ The data is in rawData.Rdata file, or it can be downloaded from https://archive.
 * Data description 
 *	Data cleaning and validation
 *	Outlier and missing value detection
-* feature transformation and feature selection
+* Feature transformation and feature selection
 *	Model fitting : **C4.5**, **Random Forest**, **SVM**
 * Classification prediction
 * Results comparisons and visualization
