@@ -1,4 +1,4 @@
-# Income-Prediction--Find-the-Donators
+# Income Prediction -- Find the Donators
 Models are developed to predict people's income based on their features, in order to find the potential donators. 
 
 The data is in rawData.Rdata file, or it can be downloaded from https://archive.ics.uci.edu/ml/datasets/Adult
