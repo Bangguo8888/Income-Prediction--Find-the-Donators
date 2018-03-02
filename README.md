@@ -4,10 +4,10 @@ Actually, this is a binary classification problem. Models are developed to class
 The data is in rawData.Rdata file, or it can be downloaded from https://archive.ics.uci.edu/ml/datasets/Adult
 
 **Procedures:**
-*	Data cleaning and validation
 * Data description 
+*	Data cleaning and validation
 *	Outlier and missing value detection
-* feature selection
+* feature transformation and feature selection
 *	Model fitting : **C4.5**, **Random Forest**, **SVM**
 * Classification prediction
 * Results comparisons and visualization
