@@ -1,5 +1,5 @@
 # Income Prediction -- Find the Donators
-Models are developed to predict people's income based on their features, in order to find the potential donators. 
+Actually, this is a binary classification problem. Models are developed to classify people who earn >50K per year and those who earn <=50K per year, in order to find the potential donators. 
 
 The data is in rawData.Rdata file, or it can be downloaded from https://archive.ics.uci.edu/ml/datasets/Adult
 
@@ -7,6 +7,7 @@ The data is in rawData.Rdata file, or it can be downloaded from https://archive.
 *	Data cleaning and validation
 * Data description 
 *	Outlier and missing value detection
+* feature selection
 *	Model fitting : **C4.5**, **Random Forest**, **SVM**
 * Classification prediction
 * Results comparisons and visualization
