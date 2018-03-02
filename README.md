@@ -19,5 +19,4 @@ The data is in rawData.Rdata file, or it can be downloaded from https://archive.
 * find_best_p.R ---  for optimazation
 * multiplot.R   ---  for visualization
 
-
-Demo: https://bangguo8888.github.io/Income-Prediction--Find-the-Donators/IncomePredictionFindTheDonators.html
+Demo: https://bangguo8888.github.io/Income_Prediction_Find_the_Donators/IncomePredictionFindTheDonators.html
