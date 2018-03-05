@@ -1,8 +1,9 @@
 # Income Prediction -- Find the Donators
-**In order to find the potential donators, models are constructed to predict people's income based on their features.** <br /><br />
+**In order to find the potential donators, models are constructed to predict people's income based on their features.** <br />
 
-This is a binary classification problem. Models are developed to classify people who earn >50K per year and those who earn <=50K per year, in order to find the potential donators. <br />
-Features used for prediction are: _age, workclass, education, education years, marital status, occupation, relationship, race, sex, capital gain, captital loss, working hours per week, native country_
+This is a binary classification problem. Models are developed to classify people who earn `>50K` per year and those who earn `<=50K` per year, in order to find the potential donators. <br />
+
+Features used for prediction are: `age, workclass, education, education years, marital status, occupation, relationship, race, sex, capital gain, captital loss, working hours per week, native country`
 
 The data is in rawData.Rdata file, or it can be downloaded from [here](https://archive.ics.uci.edu/ml/datasets/Adult)
 
