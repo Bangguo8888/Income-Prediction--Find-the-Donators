@@ -1,7 +1,7 @@
 # Income Prediction -- Find the Donators
 Actually, this is a binary classification problem. Models are developed to classify people who earn >50K per year and those who earn <=50K per year, in order to find the potential donators. 
 
-The data is in rawData.Rdata file, or it can be downloaded from https://archive.ics.uci.edu/ml/datasets/Adult
+The data is in rawData.Rdata file, or it can be downloaded from [here](https://archive.ics.uci.edu/ml/datasets/Adult)
 
 **Procedures:**
 * Data description 
